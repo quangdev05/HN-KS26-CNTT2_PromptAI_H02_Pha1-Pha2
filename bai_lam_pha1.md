@@ -3,7 +3,7 @@
 - **Mã đề:** 05
 - **Họ tên:** Phạm Duy Quang
 - **Lớp:** HN-KS26-CNTT2
-- **Link repository Pha1:** : https://github.com/quangdev05/HN-KS26-CNTT2_PromptAI_H02_Pha1
+- **Link repository Pha1:** : https://github.com/quangdev05/HN-KS26-CNTT2_PromptAI_H02_Pha1-Pha2
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
